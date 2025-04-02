@@ -22,6 +22,9 @@ The **Web Vulnerability Scanner** is a **GUI-based security tool** 🛡️ built
 
 ## 📸 Screenshot
 
+![Screenshot 2025-04-03 022253](https://github.com/user-attachments/assets/cf32f1ca-895d-49c5-a51f-9c65ce3d9fe6)
+
+
 
 
 ---
